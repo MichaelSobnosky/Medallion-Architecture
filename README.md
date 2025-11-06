@@ -9,7 +9,7 @@ The dataset is based on *Mario Kart–themed gameplay data*, and the pipeline tr
 |:------|:-------------|:------|
 | 🥉 **Bronze** | Raw data ingestion and initial processing | [Bronze_Mario.ipynb](https://github.com/MichaelSobnosky/Medallion-Architecture/blob/main/Bronze_Mario.ipynb) |
 | 🥈 **Silver** | Data cleaning, transformation, and integration | [Silver.ipynb](https://github.com/MichaelSobnosky/Medallion-Architecture/blob/main/Silver.ipynb) |
-| 🥇 **Gold** | Final analytics layer with reports and visual summaries | [IS640_ETL_Report.html](https://github.com/MichaelSobnosky/Medallion-Architecture/blob/main/IS640_ETL_Report.html) |
+| 🥇 **Gold** | Final analytics layer with reports and visual summaries | [IS640_ETL_Report.pdf](https://github.com/MichaelSobnosky/Medallion-Architecture/blob/main/IS640_ETL_Report.pdf) |
 
 ### 📊 Key Features
 - Implements the **Medallion Architecture** to separate data ingestion, cleaning, and analytics
